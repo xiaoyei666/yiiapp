@@ -18,14 +18,14 @@
         "yiisoft/yii2": ">=2.0.6",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-        "mootensai/yii2-enhanced-gii": "dev-master"
+        "mootensai/yii2-enhanced-gii": "*"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
         "yiisoft/yii2-debug": "*",
         "yiisoft/yii2-gii": "*",
         "yiisoft/yii2-faker": "*",
-        "mootensai/yii2-enhanced-gii:dev-master":"*"
+        "mootensai/yii2-enhanced-gii":"*"
     },
     "config": {
         "process-timeout": 1800
