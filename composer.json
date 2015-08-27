@@ -18,7 +18,8 @@
         "yiisoft/yii2": ">=2.0.6",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-        "mootensai/yii2-enhanced-gii": "*"
+        "mootensai/yii2-enhanced-gii": "*",
+        "janisto/yii2-ycm": "^0.3.0"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
